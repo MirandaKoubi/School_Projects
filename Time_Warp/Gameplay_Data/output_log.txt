@@ -1,0 +1,16 @@
+Initialize engine version: 4.5.3f3 (fca41a4fabea)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA Quadro 2000 (ID=0xdd8)
+    Vendor:   NVIDIA
+    VRAM:     978 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\mrk3865\Documents\Time Warp\Gameplay_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\mrk3865\Documents\Time Warp\Gameplay_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\mrk3865\Documents\Time Warp\Gameplay_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\mrk3865\Documents\Time Warp\Gameplay_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+- Completed reload, in  0.181 seconds
+desktop: 1920x1200 59Hz; virtual: 3120x1920 at -1200,-300
+<RI> Initializing input.
+<RI> Input initialized.

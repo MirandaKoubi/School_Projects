@@ -1,0 +1,249 @@
+fileFormatVersion: 2
+guid: 058f04b82231559418a341b16fb7ff0c
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Robots_2
+    21300002: Robots_3
+    21300004: Robots_4
+    21300006: Robots_5
+    21300008: Robots_6
+    21300010: Robots_7
+    21300012: Robots_8
+    21300014: Robots_9
+    21300016: Robots_28
+    21300018: Robots_29
+    21300020: Robots_30
+    21300022: Robots_31
+    21300024: Robots_32
+    21300026: Robots_33
+    21300028: Robots_52
+    21300030: Robots_53
+    21300032: Robots_70
+    21300034: Robots_76
+    21300036: Robots_77
+    21300038: Robots_83
+    21300040: Robots_85
+    21300042: Robots_95
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Robots_2
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 453
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robots_3
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 429
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robots_4
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 448
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robots_5
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 448
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robots_6
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 448
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robots_7
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 448
+        width: 45
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robots_8
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 448
+        width: 52
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robots_9
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 448
+        width: 58
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robots_28
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 284
+        width: 58
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robots_29
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 284
+        width: 52
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robots_30
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 284
+        width: 45
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robots_31
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 284
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robots_32
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 284
+        width: 30
+        height: 59
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robots_33
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 284
+        width: 49
+        height: 57
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robots_52
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 98
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robots_53
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 94
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robots_76
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 9
+        width: 38
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robots_77
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 30
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
