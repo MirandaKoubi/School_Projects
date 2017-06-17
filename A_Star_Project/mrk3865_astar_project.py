@@ -303,7 +303,7 @@ def puzzleMaster():
 def main():
 
 	print("This is a program that solves the 8-puzzle problem. The input is two strings of non-repeating numbers. One for the start state, and one for the goal state. 0 represents the open space in the puzzle.")
-	print("example:012345678 is a possible start state, and 8765433210 is a possible goal state. Not every puzzle will have a solution.")
+	print("example:012345678 is a possible start state, and 876543210 is a possible goal state. Not every puzzle will have a solution.")
 	print(" ")
 	correctInput = False
 	correctStart = False
